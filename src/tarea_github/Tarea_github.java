@@ -18,6 +18,10 @@ public class Tarea_github {
         else if(a<10000){
         System.out.println("El numero es de cuatro cifras");
         }
+        //Cambios en la macina local
+        else if(a<100000){
+        System.out.println("El numero es de cinco cifras");
+        }
         else {
         System.err.println("Error: El numero es invalido");
         }  
