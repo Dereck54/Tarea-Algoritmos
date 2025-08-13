@@ -16,7 +16,7 @@ public class Tarea_github {
         }
         //Canbios en el laboratotio virtual
         else if(a<10000){
-        System.out.println("El numero es de tres cifras");
+        System.out.println("El numero es de cuatro cifras");
         }
         else {
         System.err.println("Error: El numero es invalido");
