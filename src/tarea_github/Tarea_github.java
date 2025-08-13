@@ -14,8 +14,12 @@ public class Tarea_github {
         else if(a<1000){
         System.out.println("El numero es de tres cifras");
         }
+        //Canbios en el laboratotio virtual
+        else if(a<10000){
+        System.out.println("El numero es de tres cifras");
+        }
         else {
         System.err.println("Error: El numero es invalido");
-        }
+        }  
     }   
 }
